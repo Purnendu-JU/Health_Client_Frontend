@@ -22,7 +22,7 @@ const features = [
     link: "/nutrition-planner",
   },
   {
-    title: "AI Based Mental Health Assistant",
+    title: "AI Based Personal counsilor",
     icon: <Psychology fontSize="large" />,
     description: "Get AI-driven mental health support and personalized guidance.",
     link: "/counselling",
