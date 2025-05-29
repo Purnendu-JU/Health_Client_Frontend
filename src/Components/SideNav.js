@@ -205,7 +205,7 @@ export default function SwipeableTemporaryDrawer() {
               <CoPresentIcon />
             </ListItemIcon>
             <ListItemText
-              primary="Mental Health Assistant"
+              primary="AI Based Personal counsilor"
               sx={[
                 open
                   ? {
